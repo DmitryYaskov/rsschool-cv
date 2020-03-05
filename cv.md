@@ -33,3 +33,19 @@
 * Implementation of server solutions;
 * Repair of equipment.
 * Environment: Windows 2008 server, windows 2013 server, Debian backup server, RDP, VPN, structured cabling, ipv4, Active Directory, NAT, Ethernet
+
+**Computer Science Teacher 03.2007 - present**
+
+* Provide fundamental programming along with computer applications to the students.
+* Preparing presentations on various curriculum topics.
+* Preparing practical as well as theoretical assignments for the students:
+* HTML Editing Tools: Macromedia Dreamweaver, Microsoft FrontPage.
+* Graphics Tools: Flash, Adobe Photoshop, Adobe PageMaker, Adobe Illustrator.
+* Office Package: Microsoft Word, Microsoft Excel, Microsoft Access, Microsoft PowerPoint, Microsoft Outlook Express
+
+*Education*
+=======
+# **Education**
+
+* Francisk Skorina Gomel State University
+
