@@ -44,7 +44,7 @@
 * Office Package: Microsoft Word, Microsoft Excel, Microsoft Access, Microsoft PowerPoint, Microsoft Outlook Express
 
 *Education*
-=======
+
 # **Education**
 
 * Francisk Skorina Gomel State University
