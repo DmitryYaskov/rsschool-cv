@@ -41,7 +41,7 @@
 * Creating working models of computers, hardware assembling and dissasembling.
 * Graphics Tools: Flash, Adobe Photoshop, GIMP.
 * Office Package: Microsoft Word, Microsoft Excel, Microsoft Access, Microsoft PowerPoint.
-* 
+
 # **Education**
 
 * Francisk Skorina Gomel State University
