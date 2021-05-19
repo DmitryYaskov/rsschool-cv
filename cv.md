@@ -2,6 +2,7 @@
 
 * Phone: +375 29 634 62 23 
 * Email: dmitry.yaskov@gmail.com
+* https://bitbucket.org/DmitryYaskov/
 
 ## **Summary of Qualifications**
 * Result oriented professional, able to quickly learn new technologies.
@@ -11,14 +12,15 @@
 
 ## **Technical Skills**
 
-* Programming languages and technologies: Swift, Objective-C, JAVA
-* Operating Systems: iOS, macOS, Window, debian
-* Programming practices: agile, SCRUM
-* Frameworks and Libraries: Moya, lottie-ios  
-* Development Environments and Tools: Xcode, AppCode,
-* Application/Web Servers: bitbucket, github, confluence
+* English level: B2 Upper-Intermediate
+
+* Programming languages and technologies: Swift, Objective-C, JAVA, CocoaPods
+* Operating Systems: iOS, macOS, Windows, Debian
+* Programming practices: agile, SCRUM, VIPER
+* Frameworks and Libraries: :  Foundation, UIKit, Moya, lottie-ios, Alamofire, SwiftyJSON
+* Development Environments and Tools: Xcode, Figma, Charles Web Debugging Proxy
+* Application/Web Servers: Jira, bitbucket, github, confluence
 * Source Control: git, git-flow 
-* Build Systems: Fastlane
 * Database: SQL
 
 ## **Professional Experience**
@@ -26,23 +28,20 @@
 **Self-employed		01.2015 – present**
 * Position: System administrator
 * Responsibilities included: 
-* Communication with the client;
 * Full technical support for customer organizations;
 * Purchase and installation of equipment;
 * Development and creation local network;
 * Implementation of server solutions;
 * Repair of equipment.
-* Environment: Windows 2008 server, windows 2013 server, Debian backup server, RDP, VPN, structured cabling, ipv4, Active Directory, NAT, Ethernet
+* Environment: Windows 2008 servers, windows 2012 R2 servers, Debian backup servers, RDP, VPN, NAT, structured cabling, Ethernet
 
-**Computer Science Teacher 03.2007 - present**
+**Computer Science Teacher 03.2007 - 05.2021**
 
-* Provide fundamental programming along with computer applications to the students.
-* Preparing presentations on various curriculum topics.
-* Preparing practical as well as theoretical assignments for the students:
-* HTML Editing Tools: Macromedia Dreamweaver, Microsoft FrontPage.
-* Graphics Tools: Flash, Adobe Photoshop, Adobe PageMaker, Adobe Illustrator.
-* Office Package: Microsoft Word, Microsoft Excel, Microsoft Access, Microsoft PowerPoint, Microsoft Outlook Express
-
+* 3D-modeling for children: Lego Digital Designer, Sweet Home 3D, SketchUp Make, Minecraft.
+* Creating working models of computers, hardware assembling and dissasembling.
+* Graphics Tools: Flash, Adobe Photoshop, GIMP.
+* Office Package: Microsoft Word, Microsoft Excel, Microsoft Access, Microsoft PowerPoint.
+* 
 # **Education**
 
 * Francisk Skorina Gomel State University
