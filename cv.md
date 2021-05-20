@@ -5,8 +5,8 @@
 * https://bitbucket.org/DmitryYaskov/
 
 ## **Summary of Qualifications**
+* I am sociable and reliable person with a high sense of responsibility.
 * Result oriented professional, able to quickly learn new technologies.
-* Strong written and oral communication skills
 * Good knowledge of all stages of software development process.
 * Able to work in the Team and independently.
 
@@ -16,7 +16,7 @@
 
 * Programming languages and technologies: Swift, Objective-C, JAVA, CocoaPods
 * Operating Systems: iOS, macOS, Windows, Debian
-* Programming practices: agile, SCRUM, VIPER
+* Programming practices: agile, SOLID, SCRUM, VIPER
 * Frameworks and Libraries: :  Foundation, UIKit, Moya, lottie-ios, Alamofire, SwiftyJSON
 * Development Environments and Tools: Xcode, Figma, Charles Web Debugging Proxy
 * Application/Web Servers: Jira, bitbucket, github, confluence
