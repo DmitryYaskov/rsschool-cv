@@ -44,5 +44,10 @@
 
 # **Education**
 
-* Francisk Skorina Gomel State University
+* Educational Establishment «Francisk Skorina Gomel State University»:
+* Graduated with honours as student and studied as a post-graduate student at Department of Russian, General and Slavic Linguistics.
+* The Institute of Skills Development and Retraining (structural unit of Educational Establishment «Francisk Skorina Gomel State University»):
+* Jurisprudence - graduated.
+* Information system software -  studying nowdays.
+
 
